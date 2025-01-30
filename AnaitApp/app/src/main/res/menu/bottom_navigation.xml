@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_turnos"
+        android:icon="@drawable/ic_calendar"
+        android:title="Turnos" />
+    <item
+        android:id="@+id/nav_notas"
+        android:icon="@drawable/ic_notes"
+        android:title="Notas" />
+</menu>
